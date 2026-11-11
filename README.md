@@ -37,6 +37,8 @@ Manual competitor monitoring takes time, while incoming customer feedback may be
 - AI-assisted sentiment analysis
 - Automated reporting and notifications
 - Multi-step business process automation
+## Workflow Architecture
+![Smith Lawson n8n Workflow](smith-lawson-workflow.png)
 
 ## Project Scope
 This is a simulated business case study, not a deployment for the real company. The workflows were developed and tested in a learning environment. No production business impact or performance metrics are claimed.
